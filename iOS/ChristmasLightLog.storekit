@@ -1,0 +1,47 @@
+{
+  "identifier": "BASE",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_applicationInternalID": "0",
+    "_developerTeamID": "W7Q885Q59C",
+    "_failTransactionsEnabled": false,
+    "_locale": "en_US",
+    "_storefront": "USA",
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [
+    {
+      "id": "GROUP1",
+      "localizations": [],
+      "name": "Christmas Light Log Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "SUB1",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Photo history & replacement shopping list",
+              "displayName": "Christmas Light Log Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "christmaslightlog_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Christmas Light Log Pro Monthly",
+          "subscriptionGroupID": "GROUP1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
